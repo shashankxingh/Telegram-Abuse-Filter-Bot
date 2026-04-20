@@ -54,8 +54,7 @@ python bot.py
 💙 **Special Thanks To:**   
 - ⚡ [@shashankxingh](https://t.me/shashankxingh)
 
-## 📡 Contact & Support  
-💬 **Join Our Telegram Channel:** [Gaming World Update](https://t.me/Gaming_World_Update)  
+## 📡 Contact & Support   
 👥 **Need Help? DM the Developers!**  
 
 ---
