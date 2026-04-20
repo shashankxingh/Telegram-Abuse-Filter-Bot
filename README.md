@@ -49,16 +49,10 @@ python bot.py
 
 ---
 
-## 🏆 Credits  
+## 🏆 Credits    
 
-👑 **Made By**: [Gaming World Update](https://t.me/Gaming_World_Update)  
-🔥 **Team Zyro**  
-
-💙 **Special Thanks To:**  
-- 🌀 [@Sukuna_dev](https://t.me/Sukuna_dev)  
-- 🔥 [@Tanjiro_dev](https://t.me/Tanjiro_dev)  
+💙 **Special Thanks To:**   
 - ⚡ [@shashankxingh](https://t.me/shashankxingh)
----
 
 ## 📡 Contact & Support  
 💬 **Join Our Telegram Channel:** [Gaming World Update](https://t.me/Gaming_World_Update)  
